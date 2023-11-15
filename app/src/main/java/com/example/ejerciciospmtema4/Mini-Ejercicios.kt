@@ -21,7 +21,7 @@ package com.example.ejerciciospmtema4
         var cadena="asdhaskjdhkjashda %s askjudhaskdh %d".format("pito", 10)
         println(cadena)
         //Ejercicio12
-        println(remplazar("pito chico"))
+        println(remplazar("pito chicoa"))
 
     }
 
